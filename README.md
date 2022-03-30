@@ -26,7 +26,9 @@
 
   - arduino
   </br></br>
+  
   - server
+  <img src="https://user-images.githubusercontent.com/102660877/160880956-8131f207-e123-4e5a-9b81-b1dbb01a3970.gif">
   </br></br>
 
 
