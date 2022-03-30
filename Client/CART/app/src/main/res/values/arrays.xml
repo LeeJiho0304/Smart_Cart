@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="data_spinner">
+        <item>카드</item>
+        <item>모바일</item>
+        <item>휴대폰</item>
+    </string-array>
+
+</resources>
