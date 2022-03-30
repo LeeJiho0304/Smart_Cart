@@ -17,3 +17,17 @@
 <img width="700" src="https://user-images.githubusercontent.com/102660877/160874979-51c43241-2f16-40f5-867e-9c9c0a23414c.jpeg">
 
 </br>
+
+
+- **시연 영상**
+  - mobile
+  <img src="https://user-images.githubusercontent.com/102660877/160877075-ae4aca62-33d2-4f83-bac9-4662d932eef0.gif">
+  </br></br>
+
+  - arduino
+  </br></br>
+  - server
+  </br></br>
+
+
+</br>
